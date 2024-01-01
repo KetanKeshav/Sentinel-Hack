@@ -1,1 +1,1 @@
-# Sentinel-Hack
+#Simple hackathon website
